@@ -15,7 +15,7 @@ Your system should be configured for using Appium. Make sure your device is conn
 4. From `Tests` folder run `BySearch.py`
 
 **Contact**
-Mohammad Monfared
-https://www.linkedin.com/in/mohammad-monfared-b44a42139/
-https://github.com/mmonfared
-EMAIL:   engineer2012 [AT]  gmail [DOT_COM]
+- Mohammad Monfared
+- LinkedIn: https://www.linkedin.com/in/mohammad-monfared-b44a42139/
+- GitHub: https://github.com/mmonfared
+- Email:   engineer2012 [AT]  gmail [DOT_COM]
