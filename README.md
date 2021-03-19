@@ -10,8 +10,12 @@ Your system should be configured for using Appium. Make sure your device is conn
 **How to use**
 
 1. Export your contacts as a VCF file and repleace it with `contacts.vcf`
-2. Have whatsapp installed on the phone. 
+2. Have WhatsApp installed on the phone. 
 3. Run appium server on port 4723
 4. From `Tests` folder run `BySearch.py`
 
-contact with me:   engineer2012 [AT]  gmail [DOT_COM]
+**Contact**
+Mohammad Monfared
+https://www.linkedin.com/in/mohammad-monfared-b44a42139/
+https://github.com/mmonfared
+EMAIL:   engineer2012 [AT]  gmail [DOT_COM]
