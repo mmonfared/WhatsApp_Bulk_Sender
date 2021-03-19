@@ -5,3 +5,4 @@ from Variables.configs import *
 keys = Keywords()
 keys.open_whatsapp()
 keys.send_bulk_message(message=bulk_message)
+keys.teardown()
