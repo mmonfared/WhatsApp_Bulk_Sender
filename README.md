@@ -12,7 +12,8 @@ Your system should be configured for using Appium. Make sure your device is conn
 1. Export your contacts as a VCF file and repleace it with `contacts.vcf`
 2. Have WhatsApp installed on the phone. 
 3. Run appium server on port 4723
-4. From `Tests` folder run `BySearch.py`
+4. Set your `bulk_message` in `configs.py`
+5. From `Tests` folder run `BySearch.py`
 
 **Contact**
 - Mohammad Monfared
