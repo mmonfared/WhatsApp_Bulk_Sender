@@ -1,7 +1,3 @@
-from pathlib import Path
-
-project_root = Path(__file__).parent.parent
-app_apk = f'{project_root}\whatsapp.apk'
 appium_server = "http://127.0.0.1:4723/wd/hub"  # URL to appium server
 device_platform = "Android"
 system_port = 8251

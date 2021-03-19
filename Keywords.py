@@ -12,7 +12,7 @@ class Keywords:
         udid = udid or device_udid
         # path = join(str(self.get_project_root()), 'whatsapp', 'App', 'whatsapp.apk')
         caps = {
-            'app': app_apk,'platformName': device_platform, 'deviceName': device_name, 'automationName': 'UiAutomator2',
+            'platformName': device_platform, 'deviceName': device_name, 'automationName': 'UiAutomator2',
             'skipServerInstallation': True, 'appActivity': app_activity, 'noReset': no_reset,
             'udid': udid, 'newCommandTimeout': 1200, 'autoGrantPermissions': True,
             'appPackage': app_package, 'systemPort': int(float(system_port)),
