@@ -18,4 +18,4 @@ Your system should be configured for using Appium. Make sure your device is conn
 - Mohammad Monfared
 - LinkedIn: https://www.linkedin.com/in/mohammad-monfared-b44a42139/
 - GitHub: https://github.com/mmonfared
-- Email:   engineer2012 [AT]  gmail [DOT_COM]
+- Email:   mohammadmonfared [AT]  hotmail [DOT_COM]
