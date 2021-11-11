@@ -19,5 +19,5 @@ Your system should be configured for using Appium. Make sure your device is conn
 - Mohammad Monfared
 - LinkedIn: https://www.linkedin.com/in/mohammad-monfared-b44a42139/
 - GitHub: https://github.com/mmonfared
-- Stackoverflow: https://stackoverflow.com/users/7302505/adrenalinewest
+- Stackoverflow: https://stackoverflow.com/users/7302505/mohammad-monfared
 - Email:   mohammadmonfared [AT]  hotmail [DOT_COM]
